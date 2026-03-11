@@ -5,7 +5,7 @@ from .models import YogaPost, Article
 from .serializers import YogaPostSerializer, ArticleSerializer
 
 
-# ---------------------------------------------------------
+# -------------------------------------------------------
 #                YOGA POST CRUD
 # ---------------------------------------------------------
 

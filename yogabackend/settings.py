@@ -26,6 +26,7 @@ INSTALLED_APPS = [
 
     # Local
     'api',
+    'django_extensions',
 ]
 
 # ---------------------------
